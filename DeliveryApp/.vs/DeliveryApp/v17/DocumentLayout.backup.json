@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\projects\\C#\\DeliveryApp\\DeliveryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03E68DAF-BD05-400E-9C04-150714DE9732}|DeliveryApp\\DeliveryApp.csproj|e:\\projects\\c#\\deliveryapp\\deliveryapp\\deliveryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E68DAF-BD05-400E-9C04-150714DE9732}|DeliveryApp\\DeliveryApp.csproj|solutionrelative:deliveryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E68DAF-BD05-400E-9C04-150714DE9732}|DeliveryApp\\DeliveryApp.csproj|e:\\projects\\c#\\deliveryapp\\deliveryapp\\deliveryapp\\app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03E68DAF-BD05-400E-9C04-150714DE9732}|DeliveryApp\\DeliveryApp.csproj|solutionrelative:deliveryapp\\app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E68DAF-BD05-400E-9C04-150714DE9732}|DeliveryApp\\DeliveryApp.csproj|e:\\projects\\c#\\deliveryapp\\deliveryapp\\deliveryapp\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E68DAF-BD05-400E-9C04-150714DE9732}|DeliveryApp\\DeliveryApp.csproj|solutionrelative:deliveryapp\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E68DAF-BD05-400E-9C04-150714DE9732}|DeliveryApp\\DeliveryApp.csproj|e:\\projects\\c#\\deliveryapp\\deliveryapp\\deliveryapp\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E68DAF-BD05-400E-9C04-150714DE9732}|DeliveryApp\\DeliveryApp.csproj|solutionrelative:deliveryapp\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E68DAF-BD05-400E-9C04-150714DE9732}|DeliveryApp\\DeliveryApp.csproj|e:\\projects\\c#\\deliveryapp\\deliveryapp\\deliveryapp\\orders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03E68DAF-BD05-400E-9C04-150714DE9732}|DeliveryApp\\DeliveryApp.csproj|solutionrelative:deliveryapp\\orders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E68DAF-BD05-400E-9C04-150714DE9732}|DeliveryApp\\DeliveryApp.csproj|e:\\projects\\c#\\deliveryapp\\deliveryapp\\deliveryapp\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E68DAF-BD05-400E-9C04-150714DE9732}|DeliveryApp\\DeliveryApp.csproj|solutionrelative:deliveryapp\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "orders.json",
+              "DocumentMoniker": "E:\\projects\\C#\\DeliveryApp\\DeliveryApp\\DeliveryApp\\orders.json",
+              "RelativeDocumentMoniker": "DeliveryApp\\orders.json",
+              "ToolTip": "E:\\projects\\C#\\DeliveryApp\\DeliveryApp\\DeliveryApp\\orders.json",
+              "RelativeToolTip": "DeliveryApp\\orders.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-27T10:21:27.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.json",
+              "DocumentMoniker": "E:\\projects\\C#\\DeliveryApp\\DeliveryApp\\DeliveryApp\\app.json",
+              "RelativeDocumentMoniker": "DeliveryApp\\app.json",
+              "ToolTip": "E:\\projects\\C#\\DeliveryApp\\DeliveryApp\\DeliveryApp\\app.json",
+              "RelativeToolTip": "DeliveryApp\\app.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-27T10:08:39.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "E:\\projects\\C#\\DeliveryApp\\DeliveryApp\\DeliveryApp\\Logger.cs",
+              "RelativeDocumentMoniker": "DeliveryApp\\Logger.cs",
+              "ToolTip": "E:\\projects\\C#\\DeliveryApp\\DeliveryApp\\DeliveryApp\\Logger.cs",
+              "RelativeToolTip": "DeliveryApp\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:47:22.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "E:\\projects\\C#\\DeliveryApp\\DeliveryApp\\DeliveryApp\\OrderService.cs",
+              "RelativeDocumentMoniker": "DeliveryApp\\OrderService.cs",
+              "ToolTip": "E:\\projects\\C#\\DeliveryApp\\DeliveryApp\\DeliveryApp\\OrderService.cs",
+              "RelativeToolTip": "DeliveryApp\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:16:14.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\projects\\C#\\DeliveryApp\\DeliveryApp\\DeliveryApp\\Order.cs",
+              "RelativeDocumentMoniker": "DeliveryApp\\Order.cs",
+              "ToolTip": "E:\\projects\\C#\\DeliveryApp\\DeliveryApp\\DeliveryApp\\Order.cs",
+              "RelativeToolTip": "DeliveryApp\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:15:29.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\projects\\C#\\DeliveryApp\\DeliveryApp\\DeliveryApp\\Program.cs",
+              "RelativeDocumentMoniker": "DeliveryApp\\Program.cs",
+              "ToolTip": "E:\\projects\\C#\\DeliveryApp\\DeliveryApp\\DeliveryApp\\Program.cs*",
+              "RelativeToolTip": "DeliveryApp\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:03:18.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

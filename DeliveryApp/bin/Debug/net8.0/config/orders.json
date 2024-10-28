@@ -1,0 +1,26 @@
+[
+  {
+    "OrderId": "44f26448-f2b3-4e98-843f-776ba25b7e03",
+    "Weight": 20.0,
+    "District": "DistrictC",
+    "DeliveryDateTime": "2024-10-29T15:00:00"
+  },
+  {
+    "OrderId": "afcdd269-5561-44eb-ba47-c27643f01487",
+    "Weight": 15.0,
+    "District": "DistrictA",
+    "DeliveryDateTime": "2024-10-30T12:00:00"
+  },
+  {
+    "OrderId": "deea70d9-461e-4107-9e14-4d155dc5d535",
+    "Weight": 45.0,
+    "District": "DistrictC",
+    "DeliveryDateTime": "2024-12-20T12:00:00"
+  },
+  {
+    "OrderId": "45ca69f9-48c4-41a1-85e1-1b07e4841fa7",
+    "Weight": 20.0,
+    "District": "DistrictB",
+    "DeliveryDateTime": "2024-10-11T00:00:00"
+  }
+]

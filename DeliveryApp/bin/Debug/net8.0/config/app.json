@@ -1,0 +1,5 @@
+{
+  "OrdersFile": "config/orders.json",
+  "DeliveryLog": "config/log.json",
+  "DeliveryOrder": "config/output.json"
+}

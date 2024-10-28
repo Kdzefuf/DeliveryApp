@@ -1,0 +1,8 @@
+{
+  "OrdersFile": "orders.json",
+  "DeliveryLog": "log.json",
+  "DeliveryOrder": "output.json",
+  "TestOrdersFile": "test_orders.json",
+  "TestDeliveryLog": "test_log.json",
+  "TestDeliveryOrder": "test_output.json"
+}
